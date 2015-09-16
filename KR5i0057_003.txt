@@ -1,85 +1,10 @@
-#-*- mode: org; -*-
-#+DATE: 2015-08-29 17:53:59.274323
-#+PROPERTY: ID KR5i0057
-#+TITLE:東園語錄 Dongyuan Yulu
+# -*- mode: mandoku-view -*-
+#+DATE: 2015-08-29 17:54:01
+#+PROPERTY:  LASTPB  <PB CK-KZ_KR5i0057_04p035b>
 #+PROPERTY: BASEEDITION CK-KZ
-#+PROPERTY: WITNESS CK-KZ
-<pb:CK-KZ_KR5i0057_03p001a>¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-<pb:CK-KZ_KR5i0057_03p001b>¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-<pb:CK-KZ_KR5i0057_03p002a>¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-<pb:CK-KZ_KR5i0057_03p002b>¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-<pb:CK-KZ_KR5i0057_03p003a>¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-<pb:CK-KZ_KR5i0057_03p003b>¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-<pb:CK-KZ_KR5i0057_03p004a>¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-<pb:CK-KZ_KR5i0057_03p004b>¶
-¶
+#+PROPERTY: WITNESS YP-C
+#+PROPERTY: LASTPB  <md:CK-KZ_KR5i0057_02p009b>
+#+PROPERTY: JUAN 2
+¶¶
+<md:CK-KZ_KR5i0057_03p001a>¶¶¶¶¶¶¶¶¶¶¶<md:CK-KZ_KR5i0057_03p001b>¶¶¶¶¶¶¶¶¶¶¶<md:CK-KZ_KR5i0057_03p002a>¶¶¶¶¶¶¶¶¶¶¶<md:CK-KZ_KR5i0057_03p002b>¶¶¶¶¶¶¶¶¶¶¶<md:CK-KZ_KR5i0057_03p003a>¶¶¶¶¶¶¶¶¶¶¶<md:CK-KZ_KR5i0057_03p003b>¶¶¶¶¶¶¶¶¶¶¶<md:CK-KZ_KR5i0057_03p004a>¶¶¶¶¶¶¶¶¶¶¶<md:CK-KZ_KR5i0057_03p004b>¶¶<pb:CK-KZ_KR5i0057_02p009b>
+序
